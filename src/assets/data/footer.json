@@ -14,7 +14,7 @@
     },
     {
       "LinkName": "Become a Member",
-      "Link": "https://www.meetup.com/GDG-Jalandhar/"
+      "Link": "https://www.meetup.com/GDG-Durham/"
     }
   ],
   "ChapterResourcesSession": [
@@ -23,12 +23,8 @@
       "Link": "mailto:hello@gdgdurham.org"
     },
     {
-      "LinkName": "Call for Speaker",
+      "LinkName": "Speak at our events",
       "Link": "mailto:hello@gdgdurham.org"
-    },
-    {
-      "LinkName": "Media Kit",
-      "Link": "https://gdgdurham.org/mediakit.pdf"
     }
   ],
   "DevConsole": [
@@ -52,11 +48,7 @@
   "FooterEndSession": [
     {
       "LinkName": "Code of Conduct",
-      "Link": "https://gdgdurham.org/coc"
-    },
-    {
-      "LinkName": "Terms of Service",
-      "Link": "https://gdgdurham.org/tos"
+      "Link": "https://gdgdurham.org/about"
     }
   ]
 }
